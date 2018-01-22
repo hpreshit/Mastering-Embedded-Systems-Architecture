@@ -1,0 +1,4 @@
+<map id="peak_lag" name="peak_lag">
+<area shape="rect" id="node2" href="$main_8h.html#ae25ccd179ccb2d1df7e212c26f37be5f" title="Function definition for calc_frequency(float * data) " alt="" coords="128,5,237,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function to calculate frequency and blink LED using the obtained frequency. " alt="" coords="285,5,336,32"/>
+</map>

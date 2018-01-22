@@ -1,0 +1,5 @@
+<map id="led1" name="led1">
+<area shape="rect" id="node2" href="$main_8cpp.html#ad2cc6170669e5ad64583089122adcdc0" title="Interrupt routine for switch 1. " alt="" coords="100,5,221,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function to control LEDs with external switches by interrupts. " alt="" coords="269,56,320,83"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a2df41c6def0e703bfc66b79d204996b1" title="Interrupt routine for switch 2. " alt="" coords="100,107,221,133"/>
+</map>

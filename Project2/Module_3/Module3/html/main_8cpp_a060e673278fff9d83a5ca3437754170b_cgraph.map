@@ -1,0 +1,4 @@
+<map id="adjust_brightness" name="adjust_brightness">
+<area shape="rect" id="node2" href="$main_8cpp.html#aaaf77d7642c1833469fdadccbafa1643" title="Analog input for Potentiometer 1. " alt="" coords="187,5,234,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a66d47941cc19db996c102c667c4f2bcc" title="Analog output for PWM. " alt="" coords="177,56,244,83"/>
+</map>

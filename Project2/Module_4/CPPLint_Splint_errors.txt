@@ -1,0 +1,18 @@
+Splint and CPPlint errors on main.cpp
+
+CPPlint -- 
+
+main.cpp:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+main.cpp:19:  Include the directory when naming .h files  [build/include_subdir] [4]
+main.cpp:69:  Using C-style cast.  Use reinterpret_cast<float *>(...) instead  [readability/casting] [4]
+Done processing main.cpp
+Total errors found: 3
+
+Splint -- 
+
+main.cpp(88,7): Test expression for while not boolean, type int: 1
+  Test expression type is not boolean or int. (Use -predboolint to inhibit
+  warning)
+main.cpp(95,8): Unreachable code: return 0
+  This code will never be reached on any possible execution. (Use -unreachable
+  to inhibit warning)

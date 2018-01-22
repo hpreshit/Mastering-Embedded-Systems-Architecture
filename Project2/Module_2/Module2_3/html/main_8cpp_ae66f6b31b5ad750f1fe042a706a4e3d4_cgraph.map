@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$main_8cpp.html#a81e0624d7e9f10f8f7e52a569ba24753" title="Serial communication with PC. " alt="" coords="118,5,157,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#aaaf77d7642c1833469fdadccbafa1643" title="Analog input for Potentiometer 1. " alt="" coords="114,56,161,83"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a66d47941cc19db996c102c667c4f2bcc" title="Analog output for PWM. " alt="" coords="104,107,171,133"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ad61af463f7f43afa2e9f9484d6d305bd" title="Analog input for Potentiometer 2. " alt="" coords="114,157,161,184"/>
+</map>

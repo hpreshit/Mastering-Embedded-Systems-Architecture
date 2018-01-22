@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$main_8cpp.html#a6b71ffd718e2af00cebeb05560b44be7" title="Definition for on&#45;board LED LD2. " alt="" coords="299,56,346,83"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a5885fb0a2e12edd223ddb0b2997e2685" title="Definition for BusOut interface. " alt="" coords="273,360,372,387"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a05d9dc94ba563e9e70ca10628b24949e" title="button_1_press" alt="" coords="109,107,220,133"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ad2cc6170669e5ad64583089122adcdc0" title="Interrupt routine for switch 1. " alt="" coords="104,157,225,184"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a5e072b4492f3a0bdf423f308863558cf" title="button_2_press" alt="" coords="109,208,220,235"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a2df41c6def0e703bfc66b79d204996b1" title="Interrupt routine for switch 2. " alt="" coords="104,5,225,32"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#accc4c5b31c98346c49a11ab675a7f571" title="button_3_press" alt="" coords="109,309,220,336"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#a73d86a0ee0685caedfc91e177dd566f4" title="Interrupt routine for switch 3. " alt="" coords="104,259,225,285"/>
+<area shape="rect" id="node10" href="$main_8cpp.html#a0ad2cd2476e28c9574b1ea0169d67d6e" title="button_4_press" alt="" coords="109,411,220,437"/>
+<area shape="rect" id="node11" href="$main_8cpp.html#aef9748fd425dd53669e9c99b44fa1c1f" title="Interrupt routine for switch 4. " alt="" coords="104,360,225,387"/>
+</map>
